@@ -8,3 +8,8 @@
 	url = https://github.com/pboesu/moultmcmc
 	shallow = true
 	registered = true
+[submodule "moult"]
+	path = moult
+	url = https://github.com/cran/moult
+	shallow = true
+	registered = false
