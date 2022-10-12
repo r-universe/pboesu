@@ -1,8 +1,0 @@
-[
-  {
-    "package": "moult",
-    "url": "https://github.com/cran/moult",
-    "via": ["moultmcmc"],
-    "from": "moultmcmc"
-  }
-]
