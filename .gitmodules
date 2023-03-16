@@ -13,3 +13,8 @@
 	url = https://github.com/pboesu/moultmcmcExtra
 	shallow = true
 	registered = true
+[submodule "ewp"]
+	path = ewp
+	url = https://github.com/pboesu/ewp
+	shallow = true
+	registered = true
