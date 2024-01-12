@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/pboesu/universe
-	shallow = true
 	branch = HEAD
-[submodule "moultmcmc"]
-	path = moultmcmc
-	url = https://github.com/pboesu/moultmcmc
-	shallow = true
-	registered = true
-[submodule "moultmcmcExtra"]
-	path = moultmcmcExtra
-	url = https://github.com/pboesu/moultmcmcExtra
-	shallow = true
-	registered = true
 [submodule "ewp"]
 	path = ewp
 	url = https://github.com/pboesu/ewp
-	shallow = true
-	registered = true
+[submodule "moultmcmc"]
+	path = moultmcmc
+	url = https://github.com/pboesu/moultmcmc
+[submodule "moultmcmcExtra"]
+	path = moultmcmcExtra
+	url = https://github.com/pboesu/moultmcmcExtra
