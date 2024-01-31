@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/pboesu/universe
+	url = https://github.com/pboesu/pboesu.r-universe.dev
 	branch = HEAD
 [submodule "ewp"]
 	path = ewp
