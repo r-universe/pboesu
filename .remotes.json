@@ -1,8 +1,0 @@
-[
-  {
-    "package": "moultmcmc",
-    "url": "https://github.com/pboesu/moultmcmc",
-    "via": ["moultmcmcExtra"],
-    "from": "moultmcmcExtra"
-  }
-]
